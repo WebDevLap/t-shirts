@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/t-shirts/static/css/main.2637bb36.css",
+    "main.js": "/t-shirts/static/js/main.2c495525.js",
+    "index.html": "/t-shirts/index.html",
+    "main.2637bb36.css.map": "/t-shirts/static/css/main.2637bb36.css.map",
+    "main.2c495525.js.map": "/t-shirts/static/js/main.2c495525.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2637bb36.css",
+    "static/js/main.2c495525.js"
+  ]
+}
